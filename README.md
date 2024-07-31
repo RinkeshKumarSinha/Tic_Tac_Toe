@@ -11,6 +11,11 @@ This is a simple Tic-Tac-Toe game implemented in C++. The game is designed to be
 - Basic input validation
 - Game status updates (win/lose/tie)
 
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/RinkeshKumarSinha/Tic_Tac_Toe/main/snaps/Running.png)
+
 ## Requirements
 
 - C++11 or higher
